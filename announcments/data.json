@@ -2,11 +2,11 @@
   {
     "title": "DeepRadio",
     "description": "This is the first announcment on DeepRadio V2!",
-    "coverPhoto": "images/1.jpg"
+    "coverPhoto": "https://raw.githubusercontent.com/StefCoders/deepradio-adsannounce/main/announcments/images/1.jpg"
   },
   {
     "title": "DeepRadio Discord",
     "description": "Join the discord at https://discord.deepradio.co.uk!",
-    "coverPhoto": "images/2.jpg"
+    "coverPhoto": "https://raw.githubusercontent.com/StefCoders/deepradio-adsannounce/main/announcments/images/2.jpg"
   }
 ]
